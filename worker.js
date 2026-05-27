@@ -16,7 +16,7 @@ export default {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': env.ANTHROPIC_API_KEY,
+        'x-api-key': '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',
         'anthropic-version': '2023-06-01'
       },
       body: JSON.stringify({
